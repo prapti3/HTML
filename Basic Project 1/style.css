@@ -1,10 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Manrope:200,300,regular,500,600,700,800);
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Manrope', sans-serif;
+    font-family: poppins;
 }
 
 html,
@@ -22,7 +24,7 @@ main {
 }
 nav{
   
-    padding: 60px 10px;
+    padding: 60px 130px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -32,9 +34,58 @@ nav .part2{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 70px;
+    gap: 120px;
 }
-nav .part2 a{
+nav a{
     text-decoration:none;
-    color: black;
+    color: #000;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+section{
+    padding: 60px 100px;
+}
+
+
+section .heroText1{
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    padding: 10px ;
+
+}
+.heroText1 h1{
+
+    font-size: 140px;
+    text-transform: uppercase;
+    line-height: 100px;
+    font-weight: 900;
+}
+.heroText1 video{
+    height: 100px;
+    width: 500px;
+    background-color: black;
+    border-radius: 100px;
+    margin-top: 10px;
+    
+    
+}
+
+
+section .heroText2{
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 50px ;
+
+}
+.heroText2 h1{
+    
+    font-size: 140px;
+    text-transform: uppercase;
+    line-height: 100px;
+    font-weight: 900;
 }
