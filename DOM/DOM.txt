@@ -1,0 +1,16 @@
+
+DOM
+
+Document Object model 
+
+- Js implemented in Front is called as DOM
+- make changes in the elements of html css js
+
+
+4 pillars of DOM
+- Selection of an element (select html element from JS)
+- Changing HTML using Js
+- Changing css
+- Event Listner
+
+
