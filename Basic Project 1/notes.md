@@ -31,5 +31,17 @@
 
 
 ## Color gradients 
-https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+>ColorZilla 
+[Link](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+
+
+
+## icon 
+> Remix Icon 
+> [Link](
+https://remixicon.com/
+)
+
+
+
 
